@@ -10,4 +10,5 @@ A comprehensive ePhoto card solution, developed using Django and Flutter, employ
 
 # Videos
 
-<video src='https://youtu.be/-Cs3MS8V0wg' width=480></video>
+[<img src="https://i9.ytimg.com/vi_webp/-Cs3MS8V0wg/mq1.webp?sqp=CNyFiq4G-oaymwEmCMACELQB8quKqQMa8AEB-AG6BIACgAqKAgwIABABGGUgVChRMA8=&rs=AOn4CLAeh3BjKS1eYFtlTGIbIGU3qogoTQ" width="50%">](https://youtu.be/-Cs3MS8V0wg "Ephoto mobile")
+
