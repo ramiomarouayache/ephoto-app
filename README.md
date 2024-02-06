@@ -10,5 +10,5 @@ A comprehensive ePhoto card solution, developed using Django and Flutter, employ
 
 # Videos
 
-![ephoto_app](https://github.com/ramiomarouayache/ephoto-app/assets/98425058/6da5c754-d7b7-413e-9241-6e5f890f5801)
+![ephoto](https://github.com/ramiomarouayache/ephoto-app/assets/98425058/4826cc99-d7ef-4d56-b2fd-453da75249b4)
 >>https://youtu.be/-Cs3MS8V0wg?si=Qg2DV4niz2G62oIZ
